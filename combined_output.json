@@ -1,0 +1,752 @@
+[
+  {
+    "string": "tXAyLGWorA",
+    "number": -214.03417910647,
+    "integer": -10,
+    "float": 3.3469707009469305,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      23,
+      41,
+      74,
+      96,
+      91
+    ],
+    "nested_object": {
+      "name": "7SjuG9Ofcz",
+      "value": 25
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "oULB8qG9qT"
+      },
+      {
+        "id": 2,
+        "name": "DsaGaforkM"
+      },
+      {
+        "id": 3,
+        "name": "TJnkqU6Bbq"
+      }
+    ],
+    "object_with_array": {
+      "name": "UuQk4SuCyZ",
+      "values": [
+        48,
+        53,
+        8
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return aboNtnzO7x",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc AX51h1xCbb",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        4,
+        5,
+        10
+      ],
+      [
+        8,
+        1,
+        4
+      ],
+      [
+        1,
+        1,
+        4
+      ]
+    ],
+    "mixed_array": [
+      51,
+      "1ZOeH0lzV8",
+      8.738962700827145,
+      true,
+      null,
+      {
+        "key": "uyeOc34GQ2"
+      }
+    ],
+    "_original_file_path": "json_example_1.json",
+    "_unique_id": "json_example_1"
+  },
+  {
+    "string": "Sa8EHoxGEU",
+    "number": -127.33370827358613,
+    "integer": 100,
+    "float": 0.31783797086203935,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      79,
+      42,
+      47,
+      24,
+      11
+    ],
+    "nested_object": {
+      "name": "Sf6TScOQkw",
+      "value": 31
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "7hGlUmV0r4"
+      },
+      {
+        "id": 2,
+        "name": "1xR4KyRlHu"
+      },
+      {
+        "id": 3,
+        "name": "w1Bze0QEa4"
+      }
+    ],
+    "object_with_array": {
+      "name": "t9LH1HwR30",
+      "values": [
+        34,
+        91,
+        11
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return LxnFQtOBLi",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc 6txtzi5Lsr",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        2,
+        7,
+        10
+      ],
+      [
+        6,
+        6,
+        2
+      ],
+      [
+        4,
+        1,
+        9
+      ]
+    ],
+    "mixed_array": [
+      66,
+      "ZBkBG5fk8D",
+      8.147934925650727,
+      true,
+      null,
+      {
+        "key": "G7zjjZ4H4o"
+      }
+    ],
+    "_original_file_path": "json_example_10.json",
+    "_unique_id": "json_example_10"
+  },
+  {
+    "string": "8tYApGZZud",
+    "number": 423.77273053347017,
+    "integer": -59,
+    "float": 9.674004353657653,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      84,
+      47,
+      15,
+      79,
+      23
+    ],
+    "nested_object": {
+      "name": "87K8Sr2O7L",
+      "value": 92
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "qFEPEY89aw"
+      },
+      {
+        "id": 2,
+        "name": "SX5OfPhfiC"
+      },
+      {
+        "id": 3,
+        "name": "37rAfKB26X"
+      }
+    ],
+    "object_with_array": {
+      "name": "aeiNrzs9hE",
+      "values": [
+        91,
+        44,
+        52
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return F9Zz8AlsaX",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc u7wsL5QnBl",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        6,
+        9,
+        5
+      ],
+      [
+        1,
+        10,
+        10
+      ],
+      [
+        9,
+        3,
+        10
+      ]
+    ],
+    "mixed_array": [
+      63,
+      "G54AaAOZLP",
+      2.497913584703675,
+      true,
+      null,
+      {
+        "key": "0nKTn0Xh7Y"
+      }
+    ],
+    "_original_file_path": "json_example_2.json",
+    "_unique_id": "json_example_2"
+  },
+  {
+    "string": "LOwxBEJ74u",
+    "number": -116.55268034262417,
+    "integer": 15,
+    "float": 9.092987573670893,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      12,
+      18,
+      98,
+      25,
+      28
+    ],
+    "nested_object": {
+      "name": "yQ8O6vsMe5",
+      "value": 98
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "JzJWCzS9oV"
+      },
+      {
+        "id": 2,
+        "name": "9cQrJNxeiS"
+      },
+      {
+        "id": 3,
+        "name": "zaUlqmWGPh"
+      }
+    ],
+    "object_with_array": {
+      "name": "FQZY0lyjAT",
+      "values": [
+        89,
+        81,
+        57
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return CVs7sA8nYg",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc hI5sHatFn5",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        1,
+        4,
+        2
+      ],
+      [
+        2,
+        6,
+        4
+      ],
+      [
+        6,
+        2,
+        9
+      ]
+    ],
+    "mixed_array": [
+      33,
+      "ufMhP1P1Gm",
+      3.4724121605258054,
+      false,
+      null,
+      {
+        "key": "2IkvvwMwUQ"
+      }
+    ],
+    "_original_file_path": "json_example_3.json",
+    "_unique_id": "json_example_3"
+  },
+  {
+    "string": "oCh3WAqCP2",
+    "number": 818.3142966562943,
+    "integer": -23,
+    "float": 1.581747038752448,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      41,
+      36,
+      51,
+      23,
+      95
+    ],
+    "nested_object": {
+      "name": "EKluxrGrIt",
+      "value": 62
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "QHJFlH4Yz0"
+      },
+      {
+        "id": 2,
+        "name": "nFr59nXvlK"
+      },
+      {
+        "id": 3,
+        "name": "iC3UJpycBr"
+      }
+    ],
+    "object_with_array": {
+      "name": "KR8IFpYp8A",
+      "values": [
+        59,
+        37,
+        92
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return dqOU046uHn",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc sCX6qQ1PlP",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        9,
+        5,
+        9
+      ],
+      [
+        2,
+        1,
+        10
+      ],
+      [
+        4,
+        7,
+        10
+      ]
+    ],
+    "mixed_array": [
+      95,
+      "NFhm1KIhUj",
+      1.9532263905364877,
+      true,
+      null,
+      {
+        "key": "ywFnfzDzxN"
+      }
+    ],
+    "_original_file_path": "json_example_4.json",
+    "_unique_id": "json_example_4"
+  },
+  {
+    "string": "yL7euxaMIP",
+    "number": 299.42159412965543,
+    "integer": 18,
+    "float": 1.114374975875132,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      25,
+      30,
+      93,
+      40,
+      75
+    ],
+    "nested_object": {
+      "name": "Ws2Kfes2Rw",
+      "value": 59
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "Nb30n2YXlE"
+      },
+      {
+        "id": 2,
+        "name": "btx8wcMgnp"
+      },
+      {
+        "id": 3,
+        "name": "qnr86fYfyx"
+      }
+    ],
+    "object_with_array": {
+      "name": "4qUdPjwPK1",
+      "values": [
+        85,
+        41,
+        92
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return cgp7iqBoJR",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc 5hq9Jf6NOy",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        2,
+        9,
+        7
+      ],
+      [
+        8,
+        9,
+        3
+      ],
+      [
+        6,
+        3,
+        3
+      ]
+    ],
+    "mixed_array": [
+      72,
+      "b68OKPgp2A",
+      4.045346203167986,
+      false,
+      null,
+      {
+        "key": "LbkjKONU8D"
+      }
+    ],
+    "_original_file_path": "json_example_5.json",
+    "_unique_id": "json_example_5"
+  },
+  {
+    "string": "ctKw4R6gIh",
+    "number": 341.623064649767,
+    "integer": 19,
+    "float": 7.351573384758022,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      47,
+      73,
+      58,
+      15,
+      3
+    ],
+    "nested_object": {
+      "name": "bzMwGAyqA4",
+      "value": 57
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "tvofv8W2ve"
+      },
+      {
+        "id": 2,
+        "name": "rZUFStoEsq"
+      },
+      {
+        "id": 3,
+        "name": "U9eJ4GW2MT"
+      }
+    ],
+    "object_with_array": {
+      "name": "dzROcjyB3s",
+      "values": [
+        71,
+        36,
+        56
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return QcG6MGhwFG",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc 4vG14BHuNM",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        8,
+        10,
+        3
+      ],
+      [
+        6,
+        10,
+        8
+      ],
+      [
+        6,
+        9,
+        10
+      ]
+    ],
+    "mixed_array": [
+      100,
+      "XKGAbL6RJm",
+      3.0907412716091165,
+      false,
+      null,
+      {
+        "key": "UdwrbJZ6zi"
+      }
+    ],
+    "_original_file_path": "json_example_6.json",
+    "_unique_id": "json_example_6"
+  },
+  {
+    "string": "Wj16OyDTfj",
+    "number": 66.41237646552918,
+    "integer": 88,
+    "float": 5.826522257132164,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      67,
+      81,
+      72,
+      20,
+      59
+    ],
+    "nested_object": {
+      "name": "TawMGIowvi",
+      "value": 78
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "XVmf9EC81U"
+      },
+      {
+        "id": 2,
+        "name": "axWSpTB9qr"
+      },
+      {
+        "id": 3,
+        "name": "j389jZ6Dh5"
+      }
+    ],
+    "object_with_array": {
+      "name": "rWD02xFmZT",
+      "values": [
+        63,
+        44,
+        52
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return 3N6wpU4fGW",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc c4MvabwTmW",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        9,
+        9,
+        6
+      ],
+      [
+        5,
+        7,
+        3
+      ],
+      [
+        3,
+        3,
+        7
+      ]
+    ],
+    "mixed_array": [
+      94,
+      "TVgM5gDV08",
+      1.1750783762809858,
+      true,
+      null,
+      {
+        "key": "gkyG28txz1"
+      }
+    ],
+    "_original_file_path": "json_example_7.json",
+    "_unique_id": "json_example_7"
+  },
+  {
+    "string": "hI8rRzPjdn",
+    "number": 140.9553373236247,
+    "integer": -42,
+    "float": 8.50538912067506,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      83,
+      46,
+      10,
+      35,
+      31
+    ],
+    "nested_object": {
+      "name": "DJGFZgGHI1",
+      "value": 83
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "CA4rbGpxdq"
+      },
+      {
+        "id": 2,
+        "name": "rDUxbspQXq"
+      },
+      {
+        "id": 3,
+        "name": "KoXAWiodvu"
+      }
+    ],
+    "object_with_array": {
+      "name": "Om91KbjGRJ",
+      "values": [
+        40,
+        60,
+        33
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return jD83H7p1oZ",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc Cc7IwndCF6",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        3,
+        3,
+        9
+      ],
+      [
+        5,
+        1,
+        3
+      ],
+      [
+        3,
+        4,
+        9
+      ]
+    ],
+    "mixed_array": [
+      54,
+      "NZpSEXBysZ",
+      3.2468408167504315,
+      false,
+      null,
+      {
+        "key": "PEt5359vpi"
+      }
+    ],
+    "_original_file_path": "json_example_8.json",
+    "_unique_id": "json_example_8"
+  },
+  {
+    "string": "2JzvfJ8MEp",
+    "number": -99.92314418864851,
+    "integer": -59,
+    "float": 9.531430472001741,
+    "boolean_true": true,
+    "boolean_false": false,
+    "null_value": null,
+    "array": [
+      61,
+      83,
+      90,
+      39,
+      74
+    ],
+    "nested_object": {
+      "name": "kZIIw0WUUi",
+      "value": 7
+    },
+    "array_of_objects": [
+      {
+        "id": 1,
+        "name": "hzG00volJF"
+      },
+      {
+        "id": 2,
+        "name": "htQnbBRK1P"
+      },
+      {
+        "id": 3,
+        "name": "ViBBNMIMN9"
+      }
+    ],
+    "object_with_array": {
+      "name": "tagsxJzWPh",
+      "values": [
+        82,
+        99,
+        25
+      ]
+    },
+    "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return dM2CRiKhAi",
+    "string_with_unicode": "Unicode: \u00c2\u00a9 \u00e2\u2122\u00a5 \u00e2\u20ac\u00bc QK8oM9ckiy",
+    "empty_object": {},
+    "empty_array": [],
+    "nested_arrays": [
+      [
+        6,
+        9,
+        8
+      ],
+      [
+        7,
+        2,
+        3
+      ],
+      [
+        6,
+        7,
+        1
+      ]
+    ],
+    "mixed_array": [
+      12,
+      "nGH1SUnn8M",
+      3.800939880666734,
+      false,
+      null,
+      {
+        "key": "fj8CODgILI"
+      }
+    ],
+    "_original_file_path": "json_example_9.json",
+    "_unique_id": "json_example_9"
+  }
+]
